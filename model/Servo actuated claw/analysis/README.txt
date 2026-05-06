@@ -1,0 +1,1 @@
+Servo actuated claw by Swhitney22 on Thingiverse: https://www.thingiverse.com/thing:536251
