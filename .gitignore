@@ -1,6 +1,5 @@
 .idea
 .cache
-*.mp4
 
 devel/
 logs/
